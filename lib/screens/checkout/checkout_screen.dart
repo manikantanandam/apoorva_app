@@ -7,7 +7,7 @@ import 'package:apoorva_app/screens/checkout/checkout_controller.dart';
 import 'package:apoorva_app/screens/checkout/customer_info_card.dart';
 import 'package:apoorva_app/screens/checkout/discount_selector.dart';
 import 'package:apoorva_app/screens/checkout/payment_method_tile.dart';
-import 'package:apoorva_app/screens/sale_success_screen.dart';
+import 'package:apoorva_app/screens/sale_success/sale_success_screen.dart';
 import 'package:flutter/material.dart';
 
 class CheckoutScreen extends StatefulWidget {
